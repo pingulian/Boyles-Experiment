@@ -1,4 +1,4 @@
-Das Script beweist, dass es die Konstante P * V gibt mit den Originalwerten aus Boyles Experiment.
+Das Script beweist mit den Originalwerten aus Boyles Experiment, dass es die Konstante P * V gibt.
 
 
 Zunächst wird für jedes Wertepaar P * V=c errechnet.
